@@ -1,0 +1,7 @@
+html * {
+    font-family: sans-serif;
+    color: rgb(31, 107, 121);
+}
+img { 
+    max-width: 30px;
+}
